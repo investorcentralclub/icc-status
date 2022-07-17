@@ -4,7 +4,7 @@
     "url": "https://investorcentralclub.com/",
     "icon": "https://favicons.githubusercontent.com/investorcentralclub.com",
     "slug": "investorcentralclub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 845,
     "timeMonth": 845,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-17": 0
+    }
   }
 ]
