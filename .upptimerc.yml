@@ -4,7 +4,7 @@ repo: icc-status # The name of this repository
 
 sites:
   - name: investorcentralclub
-    url: https://www.investorcentralclub.com
+    url: https://investorcentralclub.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,11 +13,9 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://investorcentralclub.com/static/IC-logo-mini.png
   name: Investor Central Club
-  introTitle: "**InvestorCentralClub** is a community of thousands of traders & investors that want to see you succeed."
-  introMessage: InvestorCentralClub status page **real-time** data from our [InvestorCentralClub.com](https://investorcentralclub.com).)
+  introTitle: "**InvestorCentralClub**"
+  introMessage: [InvestorCentralClub.com](https://investorcentralclub.com/) is a community of thousands of traders & investors that want to see you succeed.)
   navbar:
-    - title: Status
-      href: /
     - title: InvestorCentralClub
       href: https://investorcentralclub.com
 
