@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://investorcentralclub.com/static/IC-logo-mini.png
   name: Investor Central Club
   introTitle: "**InvestorCentralClub**"
-  introMessage: [InvestorCentralClub.com](https://investorcentralclub.com/) is a community of thousands of traders & investors that want to see you succeed.)
+  introMessage: "[InvestorCentralClub.com](https://investorcentralclub.com/) is a community of thousands of traders & investors that want to see you succeed.)"
   navbar:
     - title: InvestorCentralClub
       href: https://investorcentralclub.com
