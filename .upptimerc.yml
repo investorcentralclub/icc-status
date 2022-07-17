@@ -13,7 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   theme: dark
   logoUrl: https://investorcentralclub.com/static/IC-logo-mini.png
-  name: Investor Central Club
+  name: InvestorCentralClub Status
   introTitle: "**InvestorCentralClub**"
   introMessage: "[InvestorCentralClub.com](https://investorcentralclub.com/) is a community of thousands of traders & investors that want to see you succeed.)"
   # navbar:
