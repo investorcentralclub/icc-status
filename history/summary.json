@@ -1,8 +1,8 @@
 [
   {
-    "name": "InvestorCentralClub",
-    "url": "https://www.InvestorCentralClub.com",
-    "icon": "https://investorcentralclub.com/static/IC-logo-mini.png",
+    "name": "investorcentralclub",
+    "url": "https://www.investorcentralclub.com",
+    "icon": "https://favicons.githubusercontent.com/www.investorcentralclub.com",
     "slug": "investorcentralclub",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 72,
-    "timeWeek": 79,
-    "timeMonth": 85,
-    "timeYear": 101,
+    "time": 1133,
+    "timeDay": 1133,
+    "timeWeek": 1133,
+    "timeMonth": 1133,
+    "timeYear": 1133,
     "dailyMinutesDown": {}
   }
 ]
